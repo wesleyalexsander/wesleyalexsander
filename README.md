@@ -2,6 +2,4 @@
 
 **About me:**
 
-- 📌 Hi my name is Wesley Alexsander, I'm 25 years old and junior programmer.
-- 💻 HTML5 | CSS3
-- 📖 Studying JavaScript
+- 📌 Hi my name is Wesley Alexsander, I'm 26 years old and junior programmer.
